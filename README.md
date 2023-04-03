@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
 </a>
 
-<a href="https://github.com/Prabuddhika96" target="_blank">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
+<a href="https://github.com/manula98" target="_blank">
+  <img align="left" src="https://komarev.com/ghpvc/?username=manula98" alt="page views" />
 </a>
 <a href="https://github.com/manula98?tab=followers" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/manula98?color=green&logo=github">
