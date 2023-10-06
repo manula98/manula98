@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/manula-madubashana-23a4631b8/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
-<a href="https://www.facebook.com/prabuddhika.mayurapaksha.35" target="_blank">
+<a href="https://web.facebook.com/manula.madubashana/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a>
 <a href="https://www.instagram.com/prabu__96/" target="_blank">
