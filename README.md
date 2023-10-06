@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Say Hello 💕
-<a href="https://twitter.com/PMayurapaksha" target="_blank">
+<a href="https://twitter.com/ManulaMadhubha1" target="_blank">
   <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a>
 <a href="https://www.linkedin.com/in/manula-madubashana-23a4631b8/" target="_blank">
